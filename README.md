@@ -1,4 +1,4 @@
-Week 2 Skill Distillery
+# Food Truck - Week 2 Skill Distillery
 
 # Overview (what the project is, how to do it, how to run it)
 
